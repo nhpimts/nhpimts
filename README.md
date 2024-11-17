@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nhpimts
-- 👀 I’m interested in Automation and Embedded Systems
-- 🌱 I’m currently learning Python and AIML
+- 👋 Hi, I’m Aman
+- 👀 I’m interested in Web Automation and Embedded Systems
+- 🌱 I’m currently learning Data Science and Machine Learning solutions 
 - 💞️ I’m looking to collaborate on python projects related to AI and ML.
 - 📫 Reach me @ nhpimts@hotmail.com
 
